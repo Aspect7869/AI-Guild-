@@ -1,0 +1,76 @@
+fleet,vehicle,tankcap,dump_switch,mine_anon
+Backhoe Loader,BHL003,,,mine002
+Backhoe Loader,BHL001,,,mine001
+Backhoe Loader,BHL005,,,mine002
+Backhoe Loader,BHL004,,,mine002
+Backhoe Loader,BHL006,,,mine002
+Backhoe Loader,BHL002,,,mine001
+Dumper,Dump001,1311,1,mine001
+Dumper,Dump002,1310,1,mine001
+Dumper,Dump003,1311,1,mine001
+Dumper,Dump004,1311,1,mine001
+Dumper,Dump005,1311,1,mine001
+Dumper,Dump006,1311,1,mine001
+Dumper,Dump007,1311,1,mine001
+Dumper,Dump008,1311,1,mine001
+Dumper,Dump009,1311,1,mine001
+Dumper,Dump010,1311,1,mine001
+Dumper,Dump029,1311,,mine002
+Dumper,Dump011,1311,1,mine001
+Dumper,Dump012,1310,1,mine001
+Dumper,Dump030,1311,,mine002
+Dumper,Dump014,1311,1,mine001
+Dumper,Dump015,1311,1,mine001
+Dumper,Dump031,1311,,mine002
+Dumper,Dump016,1310,1,mine001
+Dumper,Dump032,1311,,mine002
+Dumper,Dump033,1311,,mine002
+Dumper,Dump034,1311,,mine002
+Dumper,Dump035,1311,,mine002
+Dumper,Dump036,1311,,mine002
+Dumper,Dump037,1311,,mine002
+Dumper,Dump038,1311,,mine002
+Dumper,Dump039,1311,,mine002
+Dumper,Dump040,1311,,mine002
+Dumper,Dump041,1311,,mine002
+Dumper,Dump042,1311,,mine002
+Dumper,Dump043,1311,,mine002
+Dumper,Dump017,1311,1,mine001
+Dumper,Dump018,1310,1,mine001
+Dumper,Dump019,1311,1,mine001
+Dumper,Dump020,1310,1,mine001
+Dumper,Dump021,1311,1,mine001
+Dumper,Dump022,1311,1,mine001
+Dumper,Dump023,1311,1,mine001
+Dumper,Dump024,1311,1,mine001
+Dumper,Dump025,1311,1,mine001
+Dumper,Dump026,1311,1,mine001
+Dumper,Dump027,1311,1,mine001
+Dumper,Dump028,1310,1,mine001
+Dumper,Dump013,,,mine001
+Excavator,Exc001,1379,,mine001
+Excavator,Exc002,1379,,mine001
+Excavator,Exc003,1379,,mine001
+Excavator,Exc012,1379,,mine002
+Excavator,Exc004,1379,,mine001
+Excavator,Exc005,1379,,mine001
+Excavator,Exc014,1379,,mine002
+Excavator,Exc015,1379,,mine002
+Excavator,Exc016,1379,,mine002
+Excavator,Exc017,1379,,mine002
+Excavator,Exc006,1379,,mine001
+Excavator,Exc007,1379,,mine001
+Excavator,Exc008,1379,,mine001
+Excavator,Exc009,1379,,mine001
+Excavator,Exc013,,,mine002
+Excavator,Exc010,,,mine001
+Excavator,Exc011,,,mine001
+SKID LOADER,SKL002,,,mine002
+SKID LOADER,SKL001,,,mine001
+Wheel Dozer,WHD001,741,,mine001
+Wheel Dozer,WHD003,741,,mine002
+Wheel Dozer,WHD002,741,,mine001
+Wheel Loader,WHL001,,,mine001
+Wheel Loader,WHL003,,,mine002
+Wheel Loader,WHL004,,,mine002
+Wheel Loader,WHL002,,,mine001
