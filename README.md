@@ -1,2 +1,3 @@
-# AI-Guild-
-AI Guild team repo loaf 
+# AI Guild
+This is the AI guild team repo for the Team Hugh Jass
+
